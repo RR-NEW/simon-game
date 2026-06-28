@@ -19,3 +19,8 @@ function nextSequence() {
     var audio = new Audio("sounds/" + randomChosenColor + ".mp3");
     audio.play();
 }
+ document.querySelectorAll(".btn").forEach(function(button) {
+    button.addEventListener("click", function() {
+        console.log(button.id);
+    });
+});
