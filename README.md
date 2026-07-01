@@ -4,7 +4,7 @@
 A web-based replica of the classic electronic memory skill game, Simon. Test your memory and concentration as you try to replicate increasingly long sequences of flashing colors and tones!
 
 ## 🚀 Live Demo
-[View Live Demo Here](http://127.0.0.1:5500/)
+[View Live Demo Here](http://127.0.0.1:5501/Simon%20Game%20Challenge%20Step%204%20Answer/)
 
 ---
 
